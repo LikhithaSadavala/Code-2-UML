@@ -12,10 +12,10 @@ Simple Parser which uses Compiler design concepts.
  
  FOR GUI users -
  
- 1. download the Zip (https://github.com/vimaltiwari2612/JavaCodeParserAndUMLCreator)
+ 1. download the Zip ([here](https://github.com/LikhithaSadavala/CodeParserAndUMLGenerator))
  2. click on Parser.bat
  
- ![screenshot](https://github.com/vimaltiwari2612/JavaCodeParser/blob/master/screenshots/4.PNG)
+ ![screenshot](https://github.com/LikhithaSadavala/CodeParserAndUMLGenerator/blob/main/screenshots/4.PNG)
  
  
  
@@ -26,15 +26,15 @@ Simple Parser which uses Compiler design concepts.
  
  1. give an unindented code file as parameter to main class.
  
- ![screenshot](https://github.com/vimaltiwari2612/JavaCodeParser/blob/master/screenshots/1.PNG)
+ ![screenshot](https://github.com/LikhithaSadavala/CodeParserAndUMLGenerator/blob/master/screenshots/1.PNG)
  
  2. run the code
  
- ![screenshot](https://github.com/vimaltiwari2612/JavaCodeParser/blob/master/screenshots/2.PNG)
+ ![screenshot](https://github.com/LikhithaSadavala/CodeParserAndUMLGenerator/master/screenshots/2.PNG)
   
  3. See the file again
  
- ![screenshot](https://github.com/vimaltiwari2612/JavaCodeParser/blob/master/screenshots/3.PNG)
+ ![screenshot](https://github.com/LikhithaSadavala/CodeParserAndUMLGenerator/blob/master/screenshots/3.PNG)
  
 
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -45,14 +45,13 @@ Simple Parser which uses Compiler design concepts.
   
  1. Click on the "Get UML"
  
- ![screenshot](https://github.com/vimaltiwari2612/JavaCodeParser/blob/master/screenshots/5.PNG)
+ ![screenshot](https://github.com/LikhithaSadavala/CodeParserAndUMLGeneratorr/blob/master/screenshots/5.PNG)
  
  2. You will get the UML created screen. Click on save to save it in "uml" folder in package
 
- ![screenshot](https://github.com/vimaltiwari2612/JavaCodeParser/blob/master/screenshots/6.PNG)
+ ![screenshot](https://github.com/LikhithaSadavala/CodeParserAndUMLGenerator/blob/master/screenshots/6.PNG)
  
  3. Move to "uml" folder and use image however you want!!!
  
  
- THANKS!!
 
