@@ -11,4 +11,4 @@ making it a versatile tool that can be used for various programming languages.
  ## How to run : 
  
  1. download the Zip ([here](https://github.com/LikhithaSadavala/CodeParserAndUMLGenerator))
- 2. click on Parser.bat
+ 2. Run Parser.bat
