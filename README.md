@@ -1,4 +1,4 @@
-# Code-2-UML
+# Code-UML
 ## Code Parser And UML Generator
 
 - Simple parser in Java that utilizes compiler design concepts such as lexical analysis and symbol table
